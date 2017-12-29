@@ -1,0 +1,26 @@
+{
+  "name": "handball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futureplan01/Handball.git"
+  },
+  "author": "JJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/futureplan01/Handball/issues"
+  },
+  "homepage": "https://github.com/futureplan01/Handball#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "engine":{
+    "node": "8.6.0"
+  }
+}
